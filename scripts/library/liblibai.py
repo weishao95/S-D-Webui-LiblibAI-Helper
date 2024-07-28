@@ -39,7 +39,7 @@ def record_local_info(data={}, show=True):
         "sys": "L-Helper",
         "cid": uuid.UUID(int=uuid.getnode()).hex[-12:],
         "page": 11,
-        "pageUrl": "https://www.liblib.ai",
+        "pageUrl": "https://www.liblib.art",
         "ua": log_headers["User-Agent"],
         "var": data
     }
