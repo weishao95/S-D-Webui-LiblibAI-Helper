@@ -13,10 +13,10 @@ from copy import deepcopy
 suffix = ".liblibai"
 
 url_dict = {
-    "page": "https://www.liblib.ai/modelinfo/",
-    "uuid": "https://www.liblib.ai/model/getByUuid/",
-    "hash": "https://www.liblib.ai/model-version/hash/",
-    "log": "https://www.liblib.ai/api/www/log/acceptor/f"
+    "page": "https://www.liblib.art/modelinfo/",
+    "uuid": "https://www.liblib.art/model/getByUuid/",
+    "hash": "https://www.liblib.art/model-version/hash/",
+    "log": "https://www.liblib.art/api/www/log/acceptor/f"
 }
 
 model_type_dict = {
